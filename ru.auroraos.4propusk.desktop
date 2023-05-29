@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.4propusk
+Exec=/usr/bin/ru.auroraos.4propusk
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=
+OrganizationName=ru.auroraos
+ApplicationName=4propusk
+ExecDBus=/usr/bin/ru.auroraos.4propusk
